@@ -1,0 +1,17 @@
+{
+  "name": "@navify/swiftlint-config",
+  "version": "1.1.2",
+  "description": "SwiftLint config for Navify and Jigra",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navify/swiftlint-config.git"
+  },
+  "keywords": [],
+  "author": "Navify Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navify/swiftlint-config/issues"
+  },
+  "homepage": "https://github.com/navify/swiftlint-config#readme"
+}
